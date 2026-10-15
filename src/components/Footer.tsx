@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import CurrentYear from "./CurrentYear";
 
 const quickLinks = [
   { label: "Find a Job", href: "/jobs" },
