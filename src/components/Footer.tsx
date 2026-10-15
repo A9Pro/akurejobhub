@@ -58,7 +58,7 @@ export function Footer() {
       </div>
 
       <div className="border-t border-white/10 py-5 text-center text-xs text-white/60">
-        © {new Date().getFullYear()} Akure Job Hub. All rights reserved.
+        © <CurrentYear /> Akure Job Hub. All rights reserved.
       </div>
     </footer>
   );
